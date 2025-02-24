@@ -1,0 +1,16 @@
+/* Ensure the sections are tall enough to force scrolling */
+body {
+    padding-bottom: 1000px; /* Add extra space to force scrolling */
+  }
+  
+  /* Center the dropdown menu items */
+  .navbar-nav .nav-link {
+    text-align: center;
+    margin: 10px;
+    
+  }
+  
+  /* Add some spacing between sections */
+  .container-fluid .row {
+    margin-bottom: 20px;
+  }
